@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Beatrizvzz-lab
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, HTML, CSS and programming with a focus on front-end development;
-- 💞️ I’m looking to collaborate on projects related to web development
-- 📫 How to reach me lirabeatriz@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm in a career transition and discovering a passion for programming!
+## Olá, me chamo Beatriz!
+- 👀 Interesses: Desenvolvimento Backend
+- 🌱 Atualmente aprendendo: Node.js, Express, MySQL, MongoDB e APIs REST
+- 💡 Experiência: CRUDs, autenticação JWT, deploy no Google Cloud e boas práticas de backend
+- 💞️ Buscando colaborar em: Projetos relacionados a backend e banco de dados
+- 🔄 Transição de carreira: Migrando para tecnologia e descobrindo uma paixão por programação!
 
-<!---
-Beatrizvzz-lab/Beatrizvzz-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/beatrizvzz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/biazz__" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "lirabeatriz.001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-liradev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
