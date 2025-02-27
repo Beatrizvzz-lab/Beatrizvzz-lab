@@ -1,7 +1,7 @@
 ## Olá, me chamo Beatriz!
 - 👀 Interesses: Desenvolvimento Backend
 - 🌱 Atualmente aprendendo: Node.js, Express, MySQL, MongoDB e APIs REST
-- 💡 Experiência: CRUDs, autenticação JWT, deploy no Google Cloud e boas práticas de backend
+- 💡 Experiência: CRUDs, autenticação JWT, boas práticas de backend
 - 💞️ Buscando colaborar em: Projetos relacionados a backend e banco de dados
 - 🔄 Transição de carreira: Migrando para tecnologia e descobrindo uma paixão por programação!
 
