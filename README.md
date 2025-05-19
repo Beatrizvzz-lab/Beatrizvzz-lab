@@ -1,5 +1,5 @@
 <!-- Título animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+BEATRIZ+LIRA!;APAIXONADA+POR+RESOLVER+PROBLEMAS+COM+CÓDIGO;SEJA+BEM-VINDO(A)+AO+MEU+GITHUB!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+BEATRIZ+LIRA!;+BEM-VINDO(A)+AO+MEU+GITHUB!)](https://git.io/typing-svg)
 
 ### [![](https://visitcount.itsvg.in/api?id=beatrizvzz-lab&label=Visitantes&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
